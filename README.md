@@ -1,0 +1,1 @@
+Conception d'une application web permettant la génération d'un QR code unique pour chaque séance. Les étudiants scannent ce code pour enregistrer leur présence. Les données de présence sont automatiquement stockées dans une base de données, ce qui facilite le suivi et la gestion des absences.
